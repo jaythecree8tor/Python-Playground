@@ -18,7 +18,7 @@ The main goal of this repository is to facilitate my learning journey in Python,
 
 All projects in this repository are open-source, allowing for easy collaboration and contribution. If you'd like to contribute to any of the projects, feel free to follow the guidelines provided in the project's specific README file. Contributions can be in the form of bug fixes, new features, optimizations, or even suggesting entirely new project ideas!
 
-## Let's Begin the Journey!
+## 🌟 Let's Begin the Journey!
 
 I'm thrilled to embark on this Pythonic adventure and explore the countless possibilities that Python offers. Join me in this playground, and let's learn, share, and create together! Don't forget to star ⭐ this repository if you find it useful or interesting.
 
